@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313843686185",
+    "project_id": "iot-danish",
+    "storage_bucket": "iot-danish.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313843686185:android:cef14be9fb5d8245b57538",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7N6KgNLkHQxDYOmXIX9MdaauHQYeFjeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
